@@ -1,3 +1,3 @@
 # fsd2
-FIRST EXP of fsd
+FIRST EXP of fsd1 from 2nd yrs
 
